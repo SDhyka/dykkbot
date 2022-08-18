@@ -16,14 +16,14 @@ let jarot = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🐣Via link gc🐣',
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               url: 'https://chat.whatsapp.com/Daqh39CFd1I0WmuOqg73Ar'
              }
 
            },
                 {
                urlButton: {
-               displayText: '🪀Wa owner🪀',
-              url: 'wa.me//79609055704'
+               displayText: '🪀Wa Owner🪀',
+              url: 'wa.me/6281384200380'
              }
 
            },

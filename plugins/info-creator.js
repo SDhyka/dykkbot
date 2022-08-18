@@ -3,16 +3,16 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᴹᴿ᭄ OscarOffcོ_1ঔৣ꧂
-item.ORG: ᴹᴿ᭄ OscarOffcོ_1ঔৣ꧂
-item1.TEL;waid=6285850539404:79609055704@s.whatsapp.net
-item1.X-ABLabel:owner selalu ada 
+FN: ᴹᴿ᭄ DykkStoreོ_1ঔৣ꧂
+item.ORG: ᴹᴿ᭄ DykkStoreོ_1ঔৣ꧂
+item1.TEL;waid=6281384200380@s.whatsapp.net
+item1.X-ABLabel:Owner Tidak Turu
 item2.YOUTUBE;type=INTERNET: https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
 item2.X-ABLabel:YOUTUBE
-item3.ADR:;;🎍AMERIKA SERIKAT;;;;
+item3.ADR:;;🎍Bekasi Jawa Barat;;;;
 item3.X-ABADR:ac
-item3.X-ABLabel:asal kota
-item4.URL:https//github.com/Alpiii22 
+item3.X-ABLabel:Asal Kota
+item4.URL:https//github.com/SDhyka
 item4.X-ABLabel:Website
 END:VCARD`
 const sentMsg  = await conn.sendMessage(

@@ -8,9 +8,9 @@ let jarot = `
 «================»
 ››╭─〘 *Store* 〙
 ╭╡📮: Store owner kami.
-│┝‷✧ *jasa murid bot:*
-│┝‷✧ *jasa Jadi bot:*
-│┝‷✧ *jasa Sewa bot:*
+│┝‷✧ *jasa Murid Bot:*
+│┝‷✧ *jasa AddList Store:*
+│┝‷✧ *jasa Sewa Bot:*
 │╰───···─────
 │⁺◛˖ Ingin membeli store owner? Chat owner aja…
 ╰──────────···───
